@@ -1,0 +1,7 @@
+{
+  "index.html": {
+    "refer": [
+      "page/barcode_scan.html"
+    ]
+  }
+}
